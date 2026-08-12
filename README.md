@@ -1,15 +1,15 @@
-# Hi, I'm Anjali 👋
+# Hi, I'm Anjali 
 
 I'm a B.Tech CSE (Data Science) student focused on building a strong foundation in programming, problem‑solving, and real‑world project development. I’m actively learning and improving through hands‑on practice and consistent coding.
 
 ---
 
 ## 🔹 About Me
-- 🎓 First-year B.Tech CSE (Data Science)
-- 💻 Learning Python, C, HTML, CSS, SQL
-- 📊 Interested in Data Science, Machine Learning, and Web Development
-- 🎯 Goal: Build a strong portfolio and grow as a Data Science professional
-- 📈 Focused on improving coding skills and creating meaningful projects
+- Second-year B.Tech CSE (Data Science)
+- Learning Python, C, HTML, CSS, SQL
+- Interested in Data Science, Machine Learning, and Web Development
+- Goal: Build a strong portfolio and grow as a Data Science professional
+- Focused on improving coding skills and creating meaningful projects
 
 ---
 
